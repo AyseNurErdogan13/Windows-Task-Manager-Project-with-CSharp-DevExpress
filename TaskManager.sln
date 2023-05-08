@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsletimSistemleriDonemProjesi", "IsletimSistemleriDonemProjesi\IsletimSistemleriDonemProjesi.csproj", "{576E6239-D186-4BA8-B0F0-FDDD3B01C5ED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bilgisayar Asistanı", "Bilgisayar Asistanı\Bilgisayar Asistanı.vdproj", "{1B476DC8-B12D-4D11-98C6-A8D0A9FBBB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576E6239-D186-4BA8-B0F0-FDDD3B01C5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576E6239-D186-4BA8-B0F0-FDDD3B01C5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576E6239-D186-4BA8-B0F0-FDDD3B01C5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576E6239-D186-4BA8-B0F0-FDDD3B01C5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B476DC8-B12D-4D11-98C6-A8D0A9FBBB7D}.Debug|Any CPU.ActiveCfg = Debug
+		{1B476DC8-B12D-4D11-98C6-A8D0A9FBBB7D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC845D54-058E-4778-965F-66FDA2F8EDCC}
+	EndGlobalSection
+EndGlobal

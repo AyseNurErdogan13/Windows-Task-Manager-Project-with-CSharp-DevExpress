@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppManagement>
+  <App Name="ApplicationFrameHost">
+    <Label>Filmler ve TV</Label>
+    <StartTime>23.12.2021 15:17:48</StartTime>
+  </App>
+  <App Name="SystemSettings">
+    <Label>Ayarlar</Label>
+    <StartTime>23.12.2021 15:17:48</StartTime>
+  </App>
+  <App Name="AnyDesk">
+    <Label>AnyDesk</Label>
+    <StartTime>23.12.2021 15:21:58</StartTime>
+  </App>
+  <App Name="devenv">
+    <Label>IsletimSistemleriDonemProjesi (Çalışıyor) - Microsoft Visual Studio </Label>
+    <StartTime>23.12.2021 15:16:38</StartTime>
+  </App>
+  <App Name="TextInputHost">
+    <Label>Microsoft Text Input Application</Label>
+    <StartTime>23.12.2021 15:17:25</StartTime>
+  </App>
+  <App Name="Video.UI">
+    <Label>Filmler ve TV</Label>
+    <StartTime>23.12.2021 15:17:59</StartTime>
+  </App>
+</AppManagement>
